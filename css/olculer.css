@@ -1,0 +1,46 @@
+*{
+    font-size: 30px;
+}
+
+.dede{
+    background-color: orange;
+    width:50%;
+    height: 50vh;
+}
+
+.baba{
+    background-color: red;
+    width: 50%;
+    height: 50vh;
+
+}
+
+.torun{
+    background-color: aqua;
+    width: 50vw;
+}
+
+.anane{
+    color: red;
+    font-size:3em;
+    /* 1em = 16px
+       3em = 48px */
+
+}
+
+.anne{
+    font-size: 0.5em;
+    /* 48/2 = 24 px */
+}
+
+.cocuk{
+    font-size: 3em;
+}
+
+.div1{
+    font-size:2rem;
+}
+
+.div2{
+    font-size:2rem;
+}
